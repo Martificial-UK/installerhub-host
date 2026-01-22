@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
-  "generated_utc": "2026-01-21T23:24:58.1849554+00:00",
-  "products": [
-    {
-      "id": "turbosort",
-      "name": "TurboSort",
-      "latest_version": "1.0.0",
-      "manifest_url": "file:///C:/InstallerHub_TestHost/manifests/turbosort/1.0.0.manifest.json",
-      "manifest_sig_url": "file:///C:/InstallerHub_TestHost/manifests/turbosort/1.0.0.manifest.sig"
-    }
-  ]
+    "schema_version":  1,
+    "generated_utc":  "2026-01-21T23:24:58.1849554+00:00",
+    "products":  [
+                     {
+                         "id":  "turbosort",
+                         "name":  "TurboSort",
+                         "latest_version":  "1.0.0",
+                         "manifest_url":  "https://martificial-uk.github.io/installerhub-host/installerhub/manifests/turbosort/1.0.0.manifest.json",
+                         "manifest_sig_url":  "https://martificial-uk.github.io/installerhub-host/installerhub/manifests/turbosort/1.0.0.manifest.sig"
+                     }
+                 ]
 }

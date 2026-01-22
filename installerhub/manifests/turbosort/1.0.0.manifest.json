@@ -1,17 +1,26 @@
 {
-  "schema_version": 1,
-  "product": { "id": "turbosort", "name": "TurboSort" },
-  "release": { "version": "1.0.0" },
-  "payload": {
-    "url": "file:///C:/InstallerHub_TestHost/payloads/turbosort/1.0.0/turbosort-dev.exe",
-    "sha256": "8bf185435518f38fbc2b6f7be1b3519da944594ba002473551244e0115e7f4d9",
-    "cache": { "relative_path": "payloads\\\\turbosort\\\\1.0.0\\\\turbosort-dev.exe" }
-  },
-  "install": {
-    "type": "exe",
-    "args": "",
-    "requires_admin": false,
-    "timeout_seconds": 1200,
-    "success_exit_codes": [0]
-  }
+    "schema_version":  1,
+    "product":  {
+                    "id":  "turbosort",
+                    "name":  "TurboSort"
+                },
+    "release":  {
+                    "version":  "1.0.0"
+                },
+    "payload":  {
+                    "url":  "https://github.com/Martificial-UK/installerhub-host/releases/download/v1.0.0/turbosort-dev.exe",
+                    "sha256":  "8bf185435518f38fbc2b6f7be1b3519da944594ba002473551244e0115e7f4d9",
+                    "cache":  {
+                                  "relative_path":  "payloads\\\\turbosort\\\\1.0.0\\\\turbosort-dev.exe"
+                              }
+                },
+    "install":  {
+                    "type":  "exe",
+                    "args":  "",
+                    "requires_admin":  false,
+                    "timeout_seconds":  1200,
+                    "success_exit_codes":  [
+                                               0
+                                           ]
+                }
 }
