@@ -1,0 +1,3 @@
+﻿# Never commit payload binaries to this repo
+installerhub/payloads/
+*.exe
