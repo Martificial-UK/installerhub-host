@@ -1,0 +1,5 @@
+﻿# Do NOT normalize line endings or modify these signed artifacts
+installerhub/catalog.json -text
+installerhub/manifests/**/*.manifest.json -text
+installerhub/manifests/**/*.manifest.sig -text
+installerhub/manifests/**/*.publickey.b64 -text
